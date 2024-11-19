@@ -4,7 +4,7 @@
 <p><em>Currently exploring and building my knowledge:</em></p>
 <ul>
     <li>Learning new technologies and frameworks.</li>
-    <li>Trying to learn Lua & C++.</li>
+    <li>Trying to learn More & More.</li>
     <li>Contributing to coding projects.</li>
     <li>Contributing to open-source projects.</li>
     <li>Collaborating with passionate developers.</li>
